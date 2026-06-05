@@ -2,7 +2,7 @@
 
 We'll build an open-source startup with agents.
 
-[Updates via Whatsapp](https://chat.whatsapp.com/HwcwtvQlAjI8xX4kZiH1hz)
+[Updates via Whatsapp@Linktree](https://linktr.ee/lastfounder) (bottom part)
 
 ## Goals
 
