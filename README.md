@@ -2,6 +2,8 @@
 
 We'll build an open-source startup with agents.
 
+[Updates via Whatsapp](https://chat.whatsapp.com/HwcwtvQlAjI8xX4kZiH1hz)
+
 ## Goals
 
 1. Learn and teach about AI agents for startups. Explore tools e.g. cofounder.co, paperclip.ing, and more.
@@ -12,6 +14,8 @@ We'll build an open-source startup with agents.
 
 List of projects: coming soon.
 
-## Contact
+## About Us
+- [Ron Gross](https://ripper234.com/)
+- [Sharon Shineberg](https://www.linkedin.com/in/sharonshineberg/)
 
-Sharon Shinberg — sharon@shineberg.com
+<img width="800" height="460" alt="image" src="https://github.com/user-attachments/assets/0d6ad9b0-7ddc-4472-b18e-8e0a275dd1c6" />
