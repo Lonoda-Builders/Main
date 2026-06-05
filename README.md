@@ -1,6 +1,7 @@
 # Welcome
 
 We'll build an open-source startup with agents.
+[Updates via Whatsapp@Linktree](https://linktr.ee/lastfounder) (bottom part)
 
 ## Goals
 
