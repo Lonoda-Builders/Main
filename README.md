@@ -11,7 +11,7 @@ We'll build an open-source startup with agents.
 
 ## Pilot Project
 
-[Johnny](https://github.com/The-Last-Founder/johnny), a Whatsapp-native agent that helps Build
+[Johnny](https://github.com/The-Last-Founder/Johnny), a Whatsapp-native agent that helps Build
 
 ## About Us
 - [Ron Gross](https://ripper234.com/)
