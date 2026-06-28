@@ -50,6 +50,12 @@ Some of our products could potentially generate revenue, but we haven't discusse
 
 Potentially, some or all of the revenue could be funneled back into this open-source movement as an NGO. Or not.
 
+# Open Questions
+
+## Will (all?) the tools & projects we produce be open source?
+
+Open question - TODO
+
 ## ADD YOUR OWN QUESTIONS
 
 Send pull requests.
