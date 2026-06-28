@@ -8,6 +8,7 @@ https://us02web.zoom.us/j/87270380001?pwd=VJ79MGu3q5leTOsTVmX1iWED7P4PIh.1
 **Password**
 335785  
 
+
 ---
 
 Meeting chat link
