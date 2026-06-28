@@ -1,20 +1,20 @@
 # Welcome
 
-Build is an open-source **learn-by-shipping** community for people building with agents.
+Build is an open-source [learn-by-shipping](https://blog.learningbyshipping.com/2013/01/03/hello-world/) community for people building with agents.
 
 We'll build a real open-source startup together: choose a pilot, spec the MVP, code, deploy, market, and learn what actually works.
 
-[Join the Community via Whatsapp](https://chat.whatsapp.com/DgKpG63438y8N7D3pHJ57t).
+[Join the Community via WhatsApp](https://chat.whatsapp.com/DgKpG63438y8N7D3pHJ57t).
 
 ## Goals
 
-1. Learn by shipping with AI agents for startups. Explore [tools](https://github.com/The-Last-Founder/Build/blob/main/Tools.md) such as cofounder.co, Claude Tag, paperclip.ing, and more.
+1. Learn by shipping with AI agents for startups. Explore [tools](https://github.com/The-Last-Founder/Build/blob/main/Tools.md) such as Cofounder.co, Claude Tag, paperclip.ing, and more.
 2. Teach each other what actually works.
 3. Build and launch a real MVP.
 
 ## Pilot Project
 
-[Johnny](https://github.com/The-Last-Founder/Johnny), a Whatsapp-native agent that helps Build.
+[Johnny](https://github.com/The-Last-Founder/Johnny), a WhatsApp-native agent that helps Build.
 
 ### Other Project Options
 
