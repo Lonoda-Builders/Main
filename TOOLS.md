@@ -49,3 +49,37 @@ The table is sorted roughly by first-sprint usefulness, then by Johnny MVP relev
 - **Trello was intentionally removed** because it is not central enough to the AI-native Johnny workflow right now.
 - **The task “Upload Tools.md to Johnny GitHub” is not a tool**, so it is intentionally not listed in the table.
 - This file should stay concise. Add new tools only when someone actually plans to try them, teach them, or integrate them.
+
+
+3 Prompts
+
+## Image prompts
+
+### Banner
+
+Create a GitHub-ready wide header image for the top of Tools.md in the Build repository.
+
+The image should function as a 1-second visual summary of the Tools.md page: a proto-architecture / categorization map of the tools, showing which tools are more central now and which are more secondary or later-stage.
+
+Visual style: ultra-simple, calm, spacious, kawaii, and human. Minimal editorial illustration with clean shapes, soft edges, lots of negative space, restrained MMO-inspired UI hints, and a quiet open-source builder mood. Mostly neutral colors with one warm accent glow. No clutter, no photorealism, no busy dashboard feel, no corporate stock-photo vibe, no fantasy clichés, no neon gamer look.
+
+Composition: a clean diagrammatic landscape or map. In the middle, create a soft glowing central hub for “Build”, with a smaller connected hub for “Johnny”. Around them, place a few grouped zones or islands with very short readable labels. Use spatial proximity, size, and emphasis to show relevance: tools closest to the center are more relevant now; tools farther away are more secondary.
+
+Required grouped content:
+1. A clearly emphasized “Start here” zone nearest the center, visually strongest, containing: “Cofounder.co”, “Claude Code”, “Codex”, “Claude Tag”, and “open-bsp-api”.
+2. A “Build workflow” zone containing: “GitHub Copilot”, “ctx”, and “Ponytail”.
+3. An “Agent runtimes” zone containing: “OpenClaw”, “Hermes Agent”, and “Talk To My Agent”.
+4. A “Johnny integrations” zone containing: “Any.do” and “monday.com”.
+5. A small foundation or baseline zone containing: “Loop Engineering”.
+
+Interpretation rules:
+- “Loop Engineering” should feel like a practice/foundation layer, not a product.
+- “Johnny integrations” should feel more to the Johnny side.
+- “Build workflow” should feel broadly useful across the project.
+- “Start here” should be the most central and immediately legible.
+- The whole thing should read in one glance, so keep text very short and large enough to be readable.
+- Include a tiny subtle legend: “closer = more relevant now”.
+
+Design language: a calm quest board, system map, or proto-architecture diagram for an open-source startup built with agents. Add tiny abstract builder/map elements for atmosphere, but keep the main focus on clean visual categorization.
+
+Output: polished, modern, GitHub markdown friendly, 2:1 aspect ratio.
