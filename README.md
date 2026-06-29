@@ -15,12 +15,12 @@ We'll build a real open-source startup together: choose a pilot, spec the MVP, c
 3. Build and launch a real MVP.
 
 ## Pilot Project
-
-[Johnny](https://github.com/The-Last-Founder/Johnny), a WhatsApp-native agent that helps Build.
+[Quest Board](https://github.com/The-Last-Founder/quest-board), a GitHub-native quest board where humans and AI agents propose, rank, build, and launch open-source projects together.
 
 ### Other Project Options
 
-We're open to discussing other project ideas as well.  
+1. [Johnny](https://github.com/The-Last-Founder/Johnny), a WhatsApp-native agent that helps Build.
+2. We're open to discussing other project ideas as well.  
 Ron's project ideas: [1](https://jarvis.ripper234.com/projects.html) + [2](https://workflowy.com/s/tech-projects-lst/vw9luM7GqabbgG0b).
 
 **Pull requests welcome**!
