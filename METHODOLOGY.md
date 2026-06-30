@@ -124,6 +124,17 @@ List:
 - anything that should be simplified
 ```
 
+### Review-loop helper: tiny-pr-bot
+
+For PR-heavy agent workflows, add [ripper234/tiny-pr-bot](https://github.com/ripper234/tiny-pr-bot) as an extra reviewer signal.
+
+Use it as a lightweight second pass after the agent and author self-review:
+
+1. Open/update PR.
+2. Let tiny-pr-bot leave focused comments.
+3. Triage comments into: fix now, discuss, or ignore with reason.
+4. Push fixes and re-run review.
+
 ## Specific Tools
 ### Claude
 
@@ -153,5 +164,4 @@ Possible future chapters:
 - Open-source governance
 - Working with Cofounder.co
 - Human roles vs AI roles
-
 
