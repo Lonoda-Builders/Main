@@ -19,6 +19,7 @@ We'll build a real open-source startup together: choose a pilot, spec the MVP, c
 
 ### Other Project Options
 
+0. GPT for picking tools for Vibe Coders (based on Tools.me and more)
 1. [Johnny](https://github.com/The-Last-Founder/Johnny), a WhatsApp-native agent that helps Build.
 2. We're open to discussing other project ideas as well.  
 Ron's project ideas: [1](https://jarvis.ripper234.com/projects.html) + [2](https://workflowy.com/s/tech-projects-lst/vw9luM7GqabbgG0b).
