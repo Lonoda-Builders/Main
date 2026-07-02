@@ -5,8 +5,9 @@ The primary Build WhatsApp group icon lives in this folder, with the remaining c
 ## Primary asset
 
 - `build-whatsapp-icon.svg` — selected main icon (formerly concept #4, "launch path")
-- Format: SVG
-- Dimensions: 1024×1024
+- `build-whatsapp-icon.png` — WhatsApp-ready PNG export of the selected icon
+- Format: SVG source + PNG export
+- Dimensions: 1024×1024 SVG source, 512×512 PNG export
 - Crop target: designed to survive WhatsApp's circular crop with a centered safe area
 - Style: minimal, calm, collaborative, slightly game/quest-inspired
 
