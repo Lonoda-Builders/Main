@@ -37,7 +37,7 @@ Ron's project ideas: [1](https://jarvis.ripper234.com/projects.html) + [2](https
 ## How we'll do it
 We're starting with a Cofounder.co project.  
 See [our principles to working with Cofounder.co](https://github.com/The-Last-Founder/Build/blob/main/CoFounder.co.md). 
-For launch collateral, see the [intro video brief](design/INTRO_VIDEO.md), [rendered video outputs](artifacts/videos), and [WhatsApp group icon concepts](design/whatsapp-group-icons).
+For launch collateral, see the [intro video brief](design/INTRO_VIDEO.md), [rendered video outputs](artifacts/videos), and the selected [WhatsApp group icon](design/whatsapp-group-icons/build-whatsapp-icon.svg) plus [alternatives](design/whatsapp-group-icons).
 
 ## About Us
 
